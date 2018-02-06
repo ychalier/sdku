@@ -18,7 +18,7 @@ By default, the program generates a new grid at launch (may take some time).
 If you want to solve a specific one, just override the string var `libe` with your grid.
 The syntax is row by row, one space when you don't know the number, one `\n` at the end.
 
-![](img/screenshot.png)
+![](img/screenshot.PNG)
 
 Then you can press somes keys to perform actions:
 
